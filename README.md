@@ -7,11 +7,11 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 ### :technologist: About Me:
 
 - 🌍  I'm based in Netherlands
-- 🖥️  See my portfolio <a target="_blank" rel="noreferrer" href='#'>here</a>
+- 🖥️  See my portfolio [coming soon...]()
 - 🧠  Just graduated from [HackYourFuture](https://www.hackyourfuture.net/)
 - 🔭  Currently working on Portfolio
 - 📖 Currently studying NEXT.js
-- ⚡ Fun fact: I'm junior 
+- ⚡ Fun fact: I'm junior 🐣
 - 🤝  I'm open to collaborating on interesting projects as a developer
 - 📫 How to reach me: [a.g.popov@hotmail.com](mailto:a.g.popov@hotmail.com?subject=[GitHub]%20Andryushik)
 
@@ -35,7 +35,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></picture>&nbsp;        
   <picture><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/></picture>&nbsp;
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" style="color:blue" width="40" height="40"/></picture>&nbsp;
-  <picture><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/></picture>&nbsp;
+  <picture><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/></picture>&nbsp;
 </div>
 
 <!-- 
@@ -49,6 +49,6 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 ### :link: Socials:
 <div>
-  <a href="https://www.linkedin.com/in/andrei-popov-g/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
+  <a href="https://www.linkedin.com/in/andrei-popov-g/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" title="myLinkedIn" alt="LinkedIn" width="40" height="40" /></a> 
 </div>
 

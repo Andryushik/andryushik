@@ -49,6 +49,6 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 ### :link: Socials:
 <div>
-<a href="https://www.linkedin.com/in/andrei-popov-g/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
+  <a href="https://www.linkedin.com/in/andrei-popov-g/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
 </div>
 

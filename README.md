@@ -10,7 +10,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🖥️  See my portfolio <a target="_blank" rel="noreferrer" href='#'>here</a>
 - 🧠  Just graduated from @HackYourFuture
 - 🔭  Currently working on Portfolio
-- 📖 Currently studying TypeScript
+- 📖 Currently studying NEXT.js
 - ⚡ Fun fact: I'm junior 
 - 🤝  I'm open to collaborating on interesting projects as a developer
 - 📫 How to reach me: [a.g.popov@hotmail.com](mailto:a.g.popov@hotmail.com?subject=[GitHub]%20Andryushik)
@@ -21,6 +21,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NEXT.js" alt="NEXT.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;

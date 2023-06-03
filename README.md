@@ -8,7 +8,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 - 🌍  I'm based in Netherlands
 - 🖥️  See my portfolio <a target="_blank" rel="noreferrer" href='#'>here</a>
-- 🧠  Just graduated from @HackYourFuture
+- 🧠  Just graduated from [HackYourFuture](https://www.hackyourfuture.net/)
 - 🔭  Currently working on Portfolio
 - 📖 Currently studying NEXT.js
 - ⚡ Fun fact: I'm junior 

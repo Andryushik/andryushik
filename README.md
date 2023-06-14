@@ -9,7 +9,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🌍  I'm based in Netherlands
 - 🖥️  See my portfolio [coming soon...]()
 - 🧠  Just graduated from [HackYourFuture](https://www.hackyourfuture.net/)
-- 🔭  Currently working on Portfolio
+- 🔭  Currently working on [Portfolio](https://www.andrei-popov.com/)
 - 📖 Currently studying NEXT.js
 - ⚡ Fun fact: I'm junior 🐣
 - 🤝  I'm open to collaborating on interesting projects as a developer

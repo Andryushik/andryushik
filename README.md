@@ -10,7 +10,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🖥️  See my [Portfolio](https://www.andrei-popov.com/)
 - 🧠  Just graduated from [HackYourFuture](https://www.hackyourfuture.net/)
 - 🔭  Currently working on an e-commerce project
-- 📖  Currently studying NEXT.js and Typescript
+- 📖  Currently studying NEXT.js and TypeScript
 - ⚡  Fun fact: I'm a junior 🐣
 - 🤝  I'm open to collaborating on interesting projects as a developer
 - 📫  How to reach me: [a.g.popov@hotmail.com](mailto:a.g.popov@hotmail.com?subject=[GitHub]%20Andryushik)

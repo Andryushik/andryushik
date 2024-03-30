@@ -9,9 +9,8 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🌍  I'm based in the Netherlands
 - 🖥️  See my [Portfolio](https://www.andrei-popov.com/)
 - 🧠  Graduated from University and Coding Bootcamp [HackYourFuture](https://www.hackyourfuture.net/) 
-- 🔭  Currently working as Software Developer
-- 🤝  I'm open to collaborating on interesting projects as a developer
-- 📫  How to reach me: [a.g.popov@hotmail.com](mailto:a.g.popov@hotmail.com?subject=[GitHub]%20Andryushik)
+- 🔭  Currently working as a Software Developer
+- 🤝  I'm open to collaborating as a developer
 - 💟  Hobbies: 🏃🏼‍♂️ jogging, 🛫 travelling, 🖨️ 3d printing.
 
 ---

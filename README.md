@@ -1,7 +1,7 @@
 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/> 
 =======================================================================================================================
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> I'm a Full Stack Web Developer. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> &nbsp; &nbsp; I'm a Full Stack Web Developer. 
 ------------------------------------------------------------------------------------------------------------------
 
 ### :technologist: About Me:
@@ -9,9 +9,9 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🌍  Based in the Netherlands
 - 🖥️  Check out my [Portfolio](https://www.andrei-popov.com/)
 - 🧠  Graduated from University and Coding Bootcamp [HackYourFuture](https://www.hackyourfuture.net/) 
-- 🔭  Currently working as a Software Developer
+- 💼  Currently working as a Software Developer
 - 🤝  Open to collaborating as a developer
-- 💟  Hobbies: 🏃🏼‍♂️ jogging, 🛫 travelling, 🖨️ 3d printing.
+- 💟  Hobbies: 🏃🏼‍♂️ jogging, 🛫 travelling, 🖨️ 3d printing
 
 ---
 
@@ -39,17 +39,17 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
   <picture><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/></picture>&nbsp;
 </div>
 
-<!-- 
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andryushik&theme=cobalt&border_radius=15&mode=weekly)](https://git.io/streak-stats) -->
-
 ---
 
 ### :link: Socials:
 <div>
   <a href="https://www.linkedin.com/in/andrei-popov-g/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" title="myLinkedIn" alt="LinkedIn" width="40" height="40" /></a> 
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andryushik&theme=cobalt&border_radius=15&mode=weekly)](https://git.io/streak-stats)
+
 

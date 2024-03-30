@@ -1,16 +1,16 @@
 Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/> 
 =======================================================================================================================
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> I am a Full Stack Web Developer. 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> I'm a Full Stack Web Developer. 
 ------------------------------------------------------------------------------------------------------------------
 
 ### :technologist: About Me:
 
-- 🌍  I'm based in the Netherlands
-- 🖥️  See my [Portfolio](https://www.andrei-popov.com/)
+- 🌍  Based in the Netherlands
+- 🖥️  Check out my [Portfolio](https://www.andrei-popov.com/)
 - 🧠  Graduated from University and Coding Bootcamp [HackYourFuture](https://www.hackyourfuture.net/) 
 - 🔭  Currently working as a Software Developer
-- 🤝  I'm open to collaborating as a developer
+- 🤝  Open to collaborating as a developer
 - 💟  Hobbies: 🏃🏼‍♂️ jogging, 🛫 travelling, 🖨️ 3d printing.
 
 ---

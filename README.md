@@ -45,11 +45,3 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 <div>
   <a href="https://www.linkedin.com/in/andrei-popov-g/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" title="myLinkedIn" alt="LinkedIn" width="40" height="40" /></a> 
 </div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andryushik&theme=cobalt&border_radius=15&mode=weekly)](https://git.io/streak-stats)
-
-

@@ -7,7 +7,7 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 ### :technologist: About Me:
 
 - 🌍  Based in the Netherlands
-- 🖥️  Check out my [Portfolio](https://www.andrei-popov.com/)
+- 🖥️  Check out my [Portfolio](https://www.andrei-popov.me/)
 - 🧠  Graduated from University and Coding Bootcamp [HackYourFuture](https://www.hackyourfuture.net/) 
 - 💼  Currently working as a Software Developer
 - 🤝  Open to collaborating as a developer

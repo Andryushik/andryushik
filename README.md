@@ -9,9 +9,9 @@ Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 - 🌍  Based in the Netherlands
 - 🖥️  Check out my [Portfolio](https://www.andrei-popov.me/)
 - 🧠  Graduated from University and Coding Bootcamp [HackYourFuture](https://www.hackyourfuture.net/) 
-- 💼  Currently working as a Web Developer
+- 💼  Currently working as a Software Developer
 - 🤝  Open to collaborating as a developer
-- 💟  Hobbies: 🏃🏼‍♂️ jogging, 🛫 travelling, 🖨️ 3d printing
+- 💟  Hobbies: jogging, travelling, 3d printing, DIY, smart home.
 
 ---
 
